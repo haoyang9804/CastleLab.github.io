@@ -226,13 +226,13 @@ export function People(): ReactElement {
 
           <div className="banner-bottom-left">
             <a href="https://congyingxu.github.io/">
-            <div className="portrait">
-              <img
-                alt=""
-                src="images/congying.jpeg"
-                className="portrait-round"
-              />
-            </div>
+              <div className="portrait">
+                <img
+                  alt=""
+                  src="images/congying.jpeg"
+                  className="portrait-round"
+                />
+              </div>
             </a>
             <h3>
               <a href="https://congyingxu.github.io/">Congying Xu</a>
