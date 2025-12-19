@@ -364,7 +364,9 @@ export function People(): ReactElement {
             <h3>
               <a href="https://haoyang9804.github.io">Haoyang Ma</a>
             </h3>
-            <p>AI Infra Engineer at <a href="http://spirit-ai.com">Spirit AI</a></p>
+            <p>
+              AI Infra Engineer at <a href="http://spirit-ai.com">Spirit AI</a>
+            </p>
           </div>
 
           <div className="banner-bottom-left">
