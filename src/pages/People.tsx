@@ -380,7 +380,9 @@ export function People(): ReactElement {
             <h3>
               <a href="https://scholar.henryhc.net/">Hengcheng Zhu</a>
             </h3>
-            <p>PhD 2025; PostDoc at <a href="https://cispa.de/">CISPA</a></p>
+            <p>
+              PhD 2025; PostDoc at <a href="https://cispa.de/">CISPA</a>
+            </p>
           </div>
 
           <div className="banner-bottom-left">
